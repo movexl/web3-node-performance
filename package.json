@@ -1,6 +1,6 @@
 {
   "name": "@movexl/web3-node-performance",
-  "version": "1.0.116",
+  "version": "1.0.117",
   "description": "Description for web3-node-performance",
   "main": "src/index.js",
   "scripts": {
